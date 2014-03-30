@@ -1,8 +1,8 @@
 title:            The 404 Blog
-description:      A blog for coolest 404 pages out there.
+description:      A blog for coolest 404 pages on the web.
 disqus_shortname:
 #Your site's domain goes here. Leave localhost server or blank when working locally.
-url:              http://404is.github.io/
+url:              http://localhost:4000/
 
 # Owner/author information
 owner:
